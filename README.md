@@ -51,7 +51,7 @@
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="45" height="45" alt="TypeScript" title="TypeScript" />
       <br>TypeScript
     </td> -->
-     <td align="center" width="90">
+    <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45" alt="Python" title="Python" />
       <br>Python
     </td>
@@ -71,10 +71,6 @@
       <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45" alt="JavaScript" title="JavaScript" />
       <br>JavaScript
     </td>
-
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45" alt="JavaScript" title="JavaScript" />
-      <br>JavaScript
-    </td>
 <!--     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" title="MongoDB" />
       <br>MongoDB
@@ -83,7 +79,7 @@
       <img src="https://techstack-generator.vercel.app/django-icon.svg" width="45" height="45" alt="Django" title="Django" />
       <br>Django
     </td> -->
-  <td align="center" width="90">
+     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45" height="45" alt="MySQL" title="MySQL" />
       <br>MySQL
     </td> 
@@ -97,6 +93,7 @@
       <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" title="Postman" />
       <br>Postman
     </td>
+    
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=gcp" width="45" height="45" alt="Google Cloud Platform" title="GCP" />
       <br>GCP
@@ -109,13 +106,14 @@
       <img src="https://skillicons.dev/icons?i=netlify" width="45" height="45" alt="Netlify" title="Netlify" />
       <br>Netlify
     </td> -->
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" alt="GitHub Actions" title="GitHub Actions" />
-      <br>GitHub Actions
-    </td>
+    
+  </tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Vercel" title="Vercel" />
       <br>Vercel
     </td>
-  </tr>
+  <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" alt="GitHub Actions" title="GitHub Actions" />
+      <br>GitHub Actions
+    </td>
 </table>
