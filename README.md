@@ -54,7 +54,7 @@
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45" alt="Python" title="Python" />
       <br>Python
-@@ -74,48 +42,6 @@
+
       <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45" alt="JavaScript" title="JavaScript" />
       <br>JavaScript
     </td>
