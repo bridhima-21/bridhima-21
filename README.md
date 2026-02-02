@@ -51,9 +51,26 @@
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="45" height="45" alt="TypeScript" title="TypeScript" />
       <br>TypeScript
     </td> -->
-    <td align="center" width="90">
+     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45" alt="Python" title="Python" />
       <br>Python
+    </td>
+    <td align="center" width="90">
+    <img src = "https://skillicons.dev/icons?i=html" width="45" height="45" alt="html" title="html"/>
+      <br>HTML
+    </td>
+    <td align="center" width="90">
+    <img src = "https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" title="css"/>
+      <br>CSS
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS" title="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45" alt="JavaScript" title="JavaScript" />
+      <br>JavaScript
+    </td>
 
       <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45" alt="JavaScript" title="JavaScript" />
       <br>JavaScript
