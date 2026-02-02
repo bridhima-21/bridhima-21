@@ -108,12 +108,5 @@
     </td> -->
     
   </tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Vercel" title="Vercel" />
-      <br>Vercel
-    </td>
-  <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" alt="GitHub Actions" title="GitHub Actions" />
-      <br>GitHub Actions
-    </td>
+    
 </table>
